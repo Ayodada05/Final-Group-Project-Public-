@@ -44,6 +44,7 @@ This application helps users discover new recipes and search for specific ones b
 📖 Usage 1. Homepage: Browse all available recipes. 2. Recipe Search: Use the search bar to filter recipes by ingredients. 3. Recipe Details: Click on any recipe for detailed instructions and ingredients. 4. Favorites: Save recipes to your favorites by clicking the ‘Add to Favorites’ button.
 
 👥 Team Contributions
+
 • Rachael Owolabi: Setup overall architecture, routing, and component layout. Created index.js (Homepage) and recipes.js (Recipe Pages).
 
 • Aliya Ali: Designed styling and ensured responsive UI. Worked on Navbar.js, IngredientSearch.js, and globals.css.
