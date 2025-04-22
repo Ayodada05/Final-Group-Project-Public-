@@ -26,7 +26,7 @@ This application helps users discover new recipes and search for specific ones b
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Ayodada05/recipe-app.git
+   git clone https://github.com/Ayodada05/recipe-generator.git
 
    ```
 
