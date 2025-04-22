@@ -45,8 +45,11 @@ This application helps users discover new recipes and search for specific ones b
 
 👥 Team Contributions
 • Rachael Owolabi: Setup overall architecture, routing, and component layout. Created index.js (Homepage) and recipes.js (Recipe Pages).
+
 • Aliya Ali: Designed styling and ensured responsive UI. Worked on Navbar.js, IngredientSearch.js, and globals.css.
+
 • Abdulbasit Dada: Developed the search functionality and filtering logic. Worked on recipes.js and API integration (placeholder functions).
+
 • Vy Thieu: Built the favorites.js page and handled favorites functionality. Also contributed to debugging and testing.
 
 💡 This collaborative effort resulted in an engaging and functional recipe app prioritizing usability, responsiveness, and teamwork.
